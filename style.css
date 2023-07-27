@@ -211,12 +211,7 @@ header.shadow{
     gap: 2rem;
     margin: 4rem;
 }
-/* .skills-img img{
-    width: 80%;
-    padding-left: 4rem;
-    object-position: center;
 
-} */
 .bars-box{
     position: relative;
     display: flex;
@@ -443,11 +438,7 @@ form .send-btn:hover{
         transition: 0.2s ease;
         text-align: left;
     }
-     /* .navbar .active{
-        top: 100%;
-        
-       
-    } */
+
     header .active{
         position: absolute;
         top: 100%;
